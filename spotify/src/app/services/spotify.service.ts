@@ -9,7 +9,7 @@ export class SpotifyService {
   private artistUrl : string;
   private albumsUrl : string;
   private albumUrl : string;
-  private access_token = 'BQAT7sCjrGgP27bqJMCQ6GZTK9Vvht_IQbYAE-dk3cEW5QjF8yuHjqzlvhaRQoNylv2iMpOGbs_hxayfVCVd3La1Z5NuhDW-5FLEr5KNdN2OvjRo_9407NYPTO4mfBT9vIkUCvIFKtadCbyhyCxkBPS_TOO6AlI';
+  private access_token = '<Spotify Access Token Here>';
   
   constructor(private _http : Http) { }
 
